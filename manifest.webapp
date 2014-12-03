@@ -1,7 +1,7 @@
 {
   "version": "1",
   "name": "Hungry Birds",
-  "launch_path": "/index.html",
+  "launch_path": "/HungryBird/index.html",
   "description": "Boilerplate Firefox OS app with example use cases to get started",
   "icons": {
     "32": "/images/logo32.png",
