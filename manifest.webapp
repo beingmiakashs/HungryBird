@@ -2,7 +2,7 @@
   "version": "1",
   "name": "Hungry Birds",
   "launch_path": "/HungryBird/index.html",
-  "description": "Boilerplate Firefox OS app with example use cases to get started",
+  "description": "It's a story of a bird which was looking for food here and there. She was really hungry and also needs to feed her child. And from this point our game begins, you need to tap on your screen to fly up the bird through tree branches of the forest. Feed her as much as you can. This way you can make her happy as well as build up your score. Just tap to fly. Simple control, easy to navigate. Be aware of the rotten fruits to avoid the negative score. Have fun!",
   "icons": {
     "32": "/images/logo32.png",
     "60": "/images/logo60.png",
@@ -12,7 +12,7 @@
   },
   "developer": {
     "name": "Omelet",
-    "url": "http://omeletit.com"
+    "url": "http://omleteit.com"
   },
   "installs_allowed_from": [
     "*"
