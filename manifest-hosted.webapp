@@ -6,9 +6,7 @@
   "icons": {
     "32": "/images/logo32.png",
     "60": "/images/logo60.png",
-    "128": "/images/logo128.png",
-    "512": "/images/logo512.png",
-    "1024": "/images/logo1024.png"
+    "128": "/images/logo128.png"
   },
   "developer": {
     "name": "Omelet",
